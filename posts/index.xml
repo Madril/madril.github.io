@@ -6,10 +6,21 @@
     <description>Miguel Nogueira (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2024 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 12:00:00 +0000</lastBuildDate>
     
     <atom:link href="https://www.miguelnogueira.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.miguelnogueira.com/posts/hello_world/</link>
+      <pubDate>Fri, 08 Mar 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://www.miguelnogueira.com/posts/hello_world/</guid>
+      <description>&lt;p&gt;Old webpage was getting a bit long in the tooth so decided to find a new theme, customize it a bit and refresh the site. It may not be the final one.&lt;/p&gt;
+&lt;p&gt;This time with blog functionality, so that I can post some things I&amp;rsquo;ve been musing about. Key word is &amp;ldquo;can&amp;rdquo;&amp;hellip; let&amp;rsquo;s see if I will&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
